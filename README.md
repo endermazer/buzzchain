@@ -12,11 +12,11 @@ Both are possible with BuzzChain's planetary scale hyper-threading with error co
 #### Decentralized Banking and Transfers
 BuzzChain will bank the unbanked, unbank the banked, permission the permissionless, and censor the uncensorable.
 
-### Sentient Contracts
+#### Sentient Contracts
 Contracts imbued with artifical intelligence allows unstoppable and indepedendent contracts to live in the blockchain with decision-making agency.
 
 #### Space Exploration
-Nanoblocks allow high throughput data and code to flow to and from from satellites, space colonies, and unmanned missions to Mars and beyond.
+Nanoblocks allow high throughput data and code to flow to and from from satellites, space colonies, unmanned missions to Mars and beyond.
 
 
 Supported Platforms
