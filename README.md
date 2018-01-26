@@ -29,7 +29,7 @@ We already support the following platforms:
 We will support the following platforms in the future:
 
 * Windows 3.1
-* Windows 3.11 for Workgroups
+* Windows for Workgroups 3.11
 * Windows Me
 
 
