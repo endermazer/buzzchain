@@ -31,6 +31,7 @@ We will support the following platforms in the future:
 * Windows 3.1
 * Windows for Workgroups 3.11
 * Windows Me
+* OS/2 Warp
 
 
 Development
