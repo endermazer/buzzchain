@@ -3,6 +3,19 @@ BuzzChain: Microservices on the blockchain powered by artificial intelligence an
 
 To learn more about BuzzChain, please read the [White Paper](TBD)
 
+Applications
+--------
+
+## Presence-level Virtual Reality and true-Earth-physics Augmented Reality
+Both are possible with BuzzChain's planetary scale hyper-threading with error correction.
+
+## Decentralized Banking and Transfers
+BuzzChain will bank the unbanked, unbank the banked, permission the permissionless, and censor the uncensorable.
+
+## Space Exploration
+Nanoblocks allow high throughput data and code to flow to and from from satellites, space colonies, and unmanned missions to Mars and beyond.
+
+
 Supported Platforms
 --------
 
