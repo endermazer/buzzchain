@@ -10,13 +10,16 @@ Applications
 Both are possible with BuzzChain's planetary scale hyper-threading with error correction code.
 
 #### Sentient Contracts
-Contracts imbued with artifical intelligence allows unstoppable and indepedendent contracts to live in the blockchain with decision-making agency.
+Contracts imbued with artifical intelligence allow unstoppable and indepedendent contracts to live in the blockchain with decision-making agency.
 
 #### Space Exploration
 Nanoblocks allow high throughput data and code to flow to and from satellites, space colonies, unmanned missions to Mars and beyond.
 
 #### Decentralized Banking and Transfers
-BuzzChain will bank the unbanked, unbank the banked, permission the permissionless, and censor the uncensorable.
+The promise of BuzzChain will bank the unbanked, unbank the banked, permission the permissionless, and censor the uncensorable.
+
+#### Turing-Complete and Expressive Scripting
+Based on GW-BASIC, BuzzChain scripting is only limited by your imagination. Imagine: GOTOs on the blockchain.
 
 
 Supported Platforms
