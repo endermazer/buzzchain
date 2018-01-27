@@ -1,22 +1,22 @@
 BuzzChain: Microservices on the blockchain powered by artificial intelligence and big data with massive scalability and nanosecond finality enabled by concurrent proof of stake.
 ================
 
-To learn more about BuzzChain, please read the [White Paper](TBD)
+To learn more about BuzzChain, please continue reading.
 
 Applications
 --------
 
 #### Presence-level Virtual Reality and true-Earth-physics Augmented Reality
-Both are possible with BuzzChain's planetary scale hyper-threading with error correction.
-
-#### Decentralized Banking and Transfers
-BuzzChain will bank the unbanked, unbank the banked, permission the permissionless, and censor the uncensorable.
+Both are possible with BuzzChain's planetary scale hyper-threading with error correction code.
 
 #### Sentient Contracts
 Contracts imbued with artifical intelligence allows unstoppable and indepedendent contracts to live in the blockchain with decision-making agency.
 
 #### Space Exploration
-Nanoblocks allow high throughput data and code to flow to and from from satellites, space colonies, unmanned missions to Mars and beyond.
+Nanoblocks allow high throughput data and code to flow to and from satellites, space colonies, unmanned missions to Mars and beyond.
+
+#### Decentralized Banking and Transfers
+BuzzChain will bank the unbanked, unbank the banked, permission the permissionless, and censor the uncensorable.
 
 
 Supported Platforms
@@ -45,14 +45,11 @@ To install Buzzchain SDK to your project, run the following command in the [Pack
 PM> Install-Package TBD
 ```
 
-For more information about how to build DAPPs for NEO, please read the [documentation](http://docs.neo.org/en-us/sc/introduction.html)|[文档](http://docs.neo.org/zh-cn/sc/introduction.html).
 
 How to Contribute
 --------
 
 Contributing implementations is not appreciated.
-
-We use and recommend the following workflow:
 
 
 License
